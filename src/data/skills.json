@@ -1,0 +1,50 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "./assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "./assets/skills/css.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "./assets/skills/bootstrap.png"
+    },
+    {
+      "title": "Tailwind CSS",
+      "imageSrc": "./assets/skills/tailwind.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "./assets/skills/mysql.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "./assets/skills/js.png"
+    },
+    {
+      "title": "jQuery",
+      "imageSrc": "./assets/skills/jquery.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "./assets/skills/react.png"
+    },
+    {
+      "title": "Vue",
+      "imageSrc": "./assets/skills/vue.png"
+    },
+    {
+      "title": "PHP",
+      "imageSrc": "./assets/skills/php.png"
+    },
+    {
+      "title": "Laravel",
+      "imageSrc": "./assets/skills/laravel.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "./assets/skills/figma.png"
+    }
+  ]

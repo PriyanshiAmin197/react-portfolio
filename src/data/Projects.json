@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Fela - AI Language Learning",
+      "imageSrc": "./assets/projects/fela.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "PHP", "CSS", "Ajax", "Java Script", "Tailwind CSS",  "JQuery"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Keto",
+      "imageSrc": "./assets/projects/keto.png",
+      "description": "The Keto is Hotel Management System Project in Laravel is a simple project that can be built with any of the common PHP framework.",
+      "skills": ["PHP", "Laravel", "Html", "CSS", "Bootstrap", "Java Script"],
+      "demo": "http://155.138.150.216/",
+      "source": "https://github.com/PriyanshiAmin197/laravel_hotel_management_system"
+    },
+    {
+      "title": "Mobile Shop using Laravel & React",
+      "imageSrc": "./assets/projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Html", "CSS", "React", "PHP Framework"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/PriyanshiAmin197/Laravel-Project-with-React-Mobile-Shop-"
+    }
+  ]
