@@ -5,7 +5,7 @@
       "startDate": "Sep, 2021",
       "endDate": "Octo, 2023",
       "experiences": ["Developed and maintained web applications using PHP Laravel framework.", "Optimized application performance by identifying and resolving bottlenecks."],
-      "imageSrc": "./react-portfolio/assets/history/appmatic.png"
+      "imageSrc": "./assets/history/appmatic.png"
     },
     {
       "role": "PHP developer",
@@ -13,6 +13,6 @@
       "startDate": "Feb 2021",
       "endDate": "Aug, 2021",
       "experiences": ["InVision Software is a custom software development company", "We provide end-to-end web, mobile and embedded software."],
-      "imageSrc": "./react-portfolio/assets/history/invision.jpg"
+      "imageSrc": "./assets/history/invision.jpg"
     }
   ]
