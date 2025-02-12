@@ -1,50 +1,50 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "./assets/skills/html.png"
+      "imageSrc": "./react-portfolio/assets/skills/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "./assets/skills/css.png"
+      "imageSrc": "./react-portfolio/assets/skills/css.png"
     },
     {
       "title": "Bootstrap",
-      "imageSrc": "./assets/skills/bootstrap.png"
+      "imageSrc": "./react-portfolio/assets/skills/bootstrap.png"
     },
     {
       "title": "Tailwind CSS",
-      "imageSrc": "./assets/skills/tailwind.png"
+      "imageSrc": "./react-portfolio/assets/skills/tailwind.png"
     },
     {
       "title": "MySQL",
-      "imageSrc": "./assets/skills/mysql.png"
+      "imageSrc": "./react-portfolio/assets/skills/mysql.png"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "./assets/skills/js.png"
+      "imageSrc": "./react-portfolio/assets/skills/js.png"
     },
     {
       "title": "jQuery",
-      "imageSrc": "./assets/skills/jquery.png"
+      "imageSrc": "./react-portfolio/assets/skills/jquery.png"
     },
     {
       "title": "React",
-      "imageSrc": "./assets/skills/react.png"
+      "imageSrc": "./react-portfolio/assets/skills/react.png"
     },
     {
       "title": "Vue",
-      "imageSrc": "./assets/skills/vue.png"
+      "imageSrc": "./react-portfolio/assets/skills/vue.png"
     },
     {
       "title": "PHP",
-      "imageSrc": "./assets/skills/php.png"
+      "imageSrc": "./react-portfolio/assets/skills/php.png"
     },
     {
       "title": "Laravel",
-      "imageSrc": "./assets/skills/laravel.png"
+      "imageSrc": "./react-portfolio/assets/skills/laravel.png"
     },
     {
       "title": "Figma",
-      "imageSrc": "./assets/skills/figma.png"
+      "imageSrc": "./react-portfolio/assets/skills/figma.png"
     }
   ]
