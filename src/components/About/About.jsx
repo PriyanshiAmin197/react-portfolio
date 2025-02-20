@@ -3,6 +3,7 @@ import React from "react";
 import styles from "./About.module.css";
 import cursorIcon from '../../../assets/about/cursorIcon.png';
 import serverIcon from '../../../assets/about/serverIcon.png';
+import aboutImage from '../../../assets/about/aboutImage.png';
 
 export const About = () => {
   return (
@@ -10,7 +11,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src="./assets/about/aboutImage.png"
+          src={aboutImage}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
