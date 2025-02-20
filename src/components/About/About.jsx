@@ -1,7 +1,8 @@
 import React from "react";
 
 import styles from "./About.module.css";
-import { getImageUrl } from "../../utils";
+import cursorIcon from '../../../assets/about/cursorIcon.png';
+import serverIcon from '../../../assets/about/serverIcon.png';
 
 export const About = () => {
   return (
@@ -15,7 +16,7 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="./react-portfolio/assets/about/cursorIcon.png" alt="Cursor icon" />
+            <img src={cursorIcon} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -25,7 +26,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="./react-portfolio/assets/about/serverIcon.png" alt="Server icon" />
+            <img src={serverIcon} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -35,7 +36,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="./react-portfolio/assets/about/cursorIcon.png" alt="UI icon" />
+            <img src={cursorIcon} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
