@@ -1,50 +1,50 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "./react-portfolio/assets/skills/html.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "./react-portfolio/assets/skills/css.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/css.png"
     },
     {
       "title": "Bootstrap",
-      "imageSrc": "./react-portfolio/assets/skills/bootstrap.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/bootstrap.png"
     },
     {
       "title": "Tailwind CSS",
-      "imageSrc": "./react-portfolio/assets/skills/tailwind.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/tailwind.png"
     },
     {
       "title": "MySQL",
-      "imageSrc": "./react-portfolio/assets/skills/mysql.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/mysql.png"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "./react-portfolio/assets/skills/js.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/js.png"
     },
     {
       "title": "jQuery",
-      "imageSrc": "./react-portfolio/assets/skills/jquery.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/jquery.png"
     },
     {
       "title": "React",
-      "imageSrc": "./react-portfolio/assets/skills/react.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/react.png"
     },
     {
       "title": "Vue",
-      "imageSrc": "./react-portfolio/assets/skills/vue.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/vue.png"
     },
     {
       "title": "PHP",
-      "imageSrc": "./react-portfolio/assets/skills/php.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/php.png"
     },
     {
       "title": "Laravel",
-      "imageSrc": "./react-portfolio/assets/skills/laravel.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/laravel.png"
     },
     {
       "title": "Figma",
-      "imageSrc": "./react-portfolio/assets/skills/figma.png"
+      "imageSrc": "./react-vite-deploy/assets/skills/figma.png"
     }
   ]
